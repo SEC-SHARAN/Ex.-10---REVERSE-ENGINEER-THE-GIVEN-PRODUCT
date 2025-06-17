@@ -38,8 +38,7 @@
 
 ![Screenshot 2025-04-24 154429](https://github.com/user-attachments/assets/81b818cb-32fc-4f08-b3b5-ac9b61f36396)
 
-### Name: VISHWA V
-### Register Number: 212224110062
-
+### Name: SHARAN S
+### Register Number: 212224040309
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
